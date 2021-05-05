@@ -34,4 +34,35 @@ fazer o download do postman
 
 basta executar o programa.
 
+### Postgresql e pgAdmin
+#### instalar o servidor do postgresql
+no google, digitar postgresql download windows
+abrir https://www.postgresql.org/download/windows/
+
+clicar no botao de download installer
+
+neste exemplo vamos usar a versao 12
+
+executar o arquivo de instalaçao
+instalar:
+postgresql server
+pgAdmin 4
+stack builder
+command line tools
+
+criar uma senha padrao para o superusuario da maquina local
+1234567
+
+porta 5432
+
+para ver se o servidor postgres esta rodando (ele roda como um serviço do windows)
+na pesquisa do windows digitar serviços
+
+na lista devera estar postgressql e devera estar em execuçao.
+
+testar o pgAdmin
+na pesquisa do windows digitar pgAdmin e o programa devera aparecer
+colocar a senha de superusuario
+1234567
+
 
