@@ -101,3 +101,14 @@ executar o instalador
 deixar marcado a opçao
 adicione em PATH
 
+### instalar o git no windows
+digitar no google git download
+https://git-scm.com/downloads
+
+baixar o instalador
+executar o instalador
+
+para testar, basta em qualquer pasta clicar com o botao direito e deve aparercer 
+git bash here
+
+
