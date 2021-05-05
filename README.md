@@ -22,4 +22,10 @@ e pronto.
 
 no cmd, digitar java -version e deve aparecer a versao do java.
 
+### STS 
+em spring.io baixar o sts
+extrair os arquivos 
+abrir o arquivo contents.zip e descompactar
+executar o sts
+
 
