@@ -80,3 +80,15 @@ para testar se esta funcionando, no cmd
 digitar
 heroku -v
 
+### instalar NPM
+digitar no google npm download
+https://nodejs.org/en/download/
+
+baixar o instalador do windows
+executar o instalador
+instalar chocolate
+
+para testar 
+cmd
+digitar npm -v
+
