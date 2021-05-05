@@ -92,3 +92,12 @@ para testar
 cmd
 digitar npm -v
 
+### instalar VS code no windows
+digitar no google vs code install windows
+
+baixar o instalador
+
+executar o instalador
+deixar marcado a opçao
+adicione em PATH
+
