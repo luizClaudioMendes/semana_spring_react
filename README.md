@@ -35,7 +35,6 @@ fazer o download do postman
 basta executar o programa.
 
 ### Postgresql e pgAdmin
-#### instalar o servidor do postgresql
 no google, digitar postgresql download windows
 abrir https://www.postgresql.org/download/windows/
 
@@ -65,4 +64,19 @@ na pesquisa do windows digitar pgAdmin e o programa devera aparecer
 colocar a senha de superusuario
 1234567
 
+### instalar Heroku CLI
+digitar no google heroku cli download
+https://devcenter.heroku.com/articles/heroku-cli
+
+baixar o arquivo de instalação
+executar o instalador
+
+deixar marcado:
+heroku cli 7.42.13
+set PATH to heroku
+add %LOCALAPPDATA%
+
+para testar se esta funcionando, no cmd
+digitar
+heroku -v
 
