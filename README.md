@@ -28,4 +28,10 @@ extrair os arquivos
 abrir o arquivo contents.zip e descompactar
 executar o sts
 
+### Postman
+digitar no navegador getpostman
+fazer o download do postman
+
+basta executar o programa.
+
 
